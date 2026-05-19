@@ -1,0 +1,3 @@
+# Codility
+
+CodilityはAtCoderではないけどもついでに管理する
