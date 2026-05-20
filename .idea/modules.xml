@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AtCoder.iml" filepath="$PROJECT_DIR$/AtCoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeginnersContest/BeginnersContest.iml" filepath="$PROJECT_DIR$/BeginnersContest/BeginnersContest.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeginnersSelection/BeginnersSelection.iml" filepath="$PROJECT_DIR$/BeginnersSelection/BeginnersSelection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codility/Codility.iml" filepath="$PROJECT_DIR$/Codility/Codility.iml" />
       <module fileurl="file://$PROJECT_DIR$/Typical90/Typical90.iml" filepath="$PROJECT_DIR$/Typical90/Typical90.iml" />
